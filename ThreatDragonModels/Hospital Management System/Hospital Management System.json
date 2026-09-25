@@ -1,0 +1,29 @@
+{
+  "version": "2.6.2",
+  "release_version": "",
+  "released_at": "2026-09-25",
+  "summary": {
+    "title": "Hospital Management System",
+    "owner": "Adithi",
+    "description": "A secure Hospital Management System that supports patient registration, authentication, doctor and receptionist workflows, appointment scheduling, medical record management, prescriptions, and administrative auditing. The system must protect sensitive patient information through authentication, role-based access control, and secure data handling.",
+    "id": 0
+  },
+  "detail": {
+    "contributors": [],
+    "diagrams": [
+      {
+        "id": 0,
+        "title": "Hospital Management System — Level 1 DFD",
+        "diagramType": "STRIDE",
+        "placeholder": "New STRIDE diagram description",
+        "thumbnail": "./public/content/images/thumbnail.stride.jpg",
+        "version": "2.6.2",
+        "cells": [],
+        "description": "Level 1 Data Flow Diagram for the Hospital Management System showing external actors, authentication, patient management, appointment management, medical records, prescription management, administration, data stores, data flows, and trust boundaries. The diagram will be used to identify and mitigate STRIDE security threats affecting patient information and system operations."
+      }
+    ],
+    "diagramTop": 1,
+    "reviewer": "",
+    "threatTop": 0
+  }
+}
